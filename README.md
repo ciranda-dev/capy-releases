@@ -10,7 +10,7 @@ Peer-to-peer meeting rooms: private calls, notes made on your own device, no acc
 | macOS (Intel) | `Capy-darwin-x64.dmg` | Beta |
 | Windows (x64) | `Capy-win32-x64.msix` + `Capy-windows-certificate.cer` | Beta |
 | Linux (x64, ARM64) | `Capy-linux-<arch>.AppImage`, or `sudo snap install capy --beta` | Beta |
-| Android, iOS | — | In testing |
+| Android, iOS | [capy-mobile-releases](https://github.com/ciranda-dev/capy-mobile-releases) | Beta |
 
 Once installed, Capy updates itself over the air. Step-by-step install instructions for each system are on the [downloads page](https://capy.ciranda.dev/downloads).
 
