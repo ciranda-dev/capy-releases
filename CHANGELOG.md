@@ -2,6 +2,27 @@
 
 What changed in each Capy release. Downloads for every version are on the [Releases](https://github.com/ciranda-dev/capy-releases/releases) page.
 
+## 1.0.15 · 2026-10-26
+
+**Files and video messages**
+- Video messages and files go up to 10 MB. A video message shows the time it has left and stops by itself at the limit, for you to check before it goes.
+- A bigger file goes straight between computers, with no limit but the disk. A room's Files have no cap either.
+
+**Calls**
+- Big calls stay smooth: the stage pages its tiles, and video comes from the people on your page.
+- A secure room now holds 2 to 16 people.
+- Camera fixes: switching cameras, turning one off while it switches, unplugging one, and a video message whose camera went away.
+
+**Your words and your devices**
+- Your 24 words are sealed by your computer's keychain where it has one, and the first run only shows them. Copy and Save as a text file are in Settings → Recovery words, and a copy leaves the clipboard a minute later.
+- Lock Capy asks for the current lock (Touch ID or your PIN) before it changes or turns off.
+- Linking a device says each step on both computers, and what to try when one waits too long.
+
+**Everything else**
+- When one of the team's relays is down, Capy goes to the other one.
+- Settings → Network has Copy all, for a bug report.
+- The update card no longer shows the word "null".
+
 ## 1.0.14 · 2026-10-25
 
 - A second always-on relay and blind peer. When one of them is down, people still reach each other through the other, and messages for someone who is offline still wait for them there.
